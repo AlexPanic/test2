@@ -1,6 +1,1 @@
-123
-hello again
-Hello from branch 2
-second line in master
-second line in my_second_branch
-Hello from main repo
+1
